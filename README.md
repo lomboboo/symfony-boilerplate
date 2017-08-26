@@ -1,6 +1,8 @@
 Symfony boilerplate
 ==========
 
+* create database
+* create parameters.yml
 * parameters.yml - configure ```mailer_user```, database's fields.
 * composer install
 * app/console cache:clear
